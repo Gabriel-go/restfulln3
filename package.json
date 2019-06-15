@@ -1,0 +1,17 @@
+{
+  "name": "n3",
+  "version": "1.0.1",
+  "description": "ProjetoN3",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('teste')",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.2.7",
+    "nodemon": "^1.19.1"
+  }
+}
